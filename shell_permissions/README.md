@@ -1,2 +1,2 @@
-LALALALALA
-lililili
+#!/bin/bash
+su betty
